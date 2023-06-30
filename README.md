@@ -14,6 +14,9 @@ npm run serve
 ```
 npm run build
 ```
+### Benim notum
+cmd > cd Desktop > cd task-tracker-vue-js-jsonsiz > npm run serve
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
