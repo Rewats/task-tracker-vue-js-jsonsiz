@@ -1,0 +1,1 @@
+cmd > cd Desktop > cd task-tracker-vue-js-jsonsiz > npm run serve
